@@ -10,6 +10,7 @@ namespace Tyuiu.KulkoDA.Sprint0.Test6.V0
             Console.WriteLine("Разность элементов массива = " + DataService.SubtractionArray(numsArray));
             Console.WriteLine("Произведение элементов массива = " + DataService.MultiplicationArray(numsArray));
             Console.ReadKey();
+            Console.ReadKey();
         }
     }
 }
